@@ -1,6 +1,3 @@
-from re import A
-
-
 def hello():
     print("hello there")
 
